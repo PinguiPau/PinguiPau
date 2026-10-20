@@ -1,6 +1,11 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
+<img src="https://wallpaperaccess.com/full/9257548.jpg" width = "1500" height="500" />
+
+<br>
+
 <img align="right" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = "95"/>
-<H1 align="center"> Hello World! 🩷 I'm Paula Sepulveda<img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="70" />  </H1>
+<H1 align="center"> Hello World! 🩷 I'm Paula Sepulveda<img src="https://wallpaperaccess.com/full/9257548.jpg" alt="Hi" width="100"  height="50" />  </H1>
 
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 <p align="center">
@@ -33,7 +38,7 @@
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
 - :nerd_face: Always `learning new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
-- :boom: You can visit [MY WEBSITE](https://cutt.ly/Ahmed_Hossam_Website).
+- :boom: You can visit [MY WEBSITE](www.linkedin.com/in/paulasepulvedah).
 <br><br><br><br>
 
 
