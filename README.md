@@ -1,11 +1,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
-<img src="https://i.pinimg.com/originals/77/dd/3d/77dd3d3b3264caa95adca2026cdd5350.gif" width="1500" height="500" />
+<img src="https://media1.tenor.com/m/FrKDXklpqMoAAAAd/onepiece.gif" width="1500" height="500" />
 
-<br>
-
-<img align="right" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = "95"/>
-<H1 align="center"> Hello World! 🩷 I'm Paula Sepulveda<img src="https://wallpaperaccess.com/full/9257548.jpg" alt="Hi" width="100"  height="50" />  </H1>
+<img align="right" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = "115"/>
+<H1 align="center"> Hello World! 🩷 I'm Paula Sepulveda<img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="90" />   </H1>
 
 <h3 align="center">Software Engineer | Technical Content Writer | Data Analysis Enthusiast</h3>
 <p align="center">
