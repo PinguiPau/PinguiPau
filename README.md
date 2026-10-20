@@ -2,7 +2,7 @@
 
 <img src="https://media1.tenor.com/m/FrKDXklpqMoAAAAd/onepiece.gif" width="1500" height="500" />
 
-<img align="right" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = "115"/>
+<img align="right" src="https://i.pinimg.com/originals/9e/a7/2e/9ea72ef078139ced289852e8a4ea0c5c.gif" width = "110"/>
 <H1 align="center"> Hello World! 🩷 I'm Paula Sepulveda<img src="https://github.com/Aurorp1g/Aurorp1g/raw/main/cartoon.gif" alt="Hi" width="90" />   </H1>
 
 <h3 align="center">SOFTWARE ENGINEERING STUDENT | QA ANALYST | JUNIOR DEVELOPER</h3>
