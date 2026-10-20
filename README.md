@@ -93,4 +93,12 @@
 
 <br>
 
+
+## My Statistics
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PinguiPau&show_icons=true&theme=github_dark_dimmed&rank_icon=github)
+
+## My Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PinguiPau&layout=compact&theme=github_dark_dimmed)
+
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
